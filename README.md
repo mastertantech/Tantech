@@ -1,2 +1,2 @@
 # Tantech
-Tantech Token
+ Source code for TANTECH
